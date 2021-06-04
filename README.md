@@ -16,7 +16,7 @@ Sistema de Petshop atribuído pelo professor Adeilson da EEEP Manoel Mano, de Cr
  
  ## 🚩 Configuração
  
- Modifique o arquivo `conexao/conexao.php` com o nome do *banco, usuário, host e senha* do seu **phpMyAdmin**:
+ Modifique o arquivo <a href="https://github.com/luisgbr1el/petshopslulu/blob/main/conexao/conexao.php">conexao/conexao.php</a> com o nome do *banco, usuário, host e senha* do seu **phpMyAdmin**:
  
 ```
  <?php 
