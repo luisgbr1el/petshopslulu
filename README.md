@@ -1,9 +1,9 @@
 <h1 align="center">Sistema de Petshop</h1>
 
-<img src="https://img.shields.io/badge/PHP-v8.0.2-blue"></img>
-<img src="https://img.shields.io/badge/HTML-v5-yellow"></img>
-<img src="https://img.shields.io/badge/CSS-v3-red"></img>
-<img src="https://img.shields.io/badge/phpMyAdmin-v5.0.4-yellowgreen"></img>
+<a href="https://www.php.net/downloads"><img src="https://img.shields.io/badge/PHP-v8.0.2-blue"></a>
+<a href="https://pt.wikipedia.org/wiki/HTML5"><img src="https://img.shields.io/badge/HTML-v5-yellow"></a>
+<a href="https://pt.wikipedia.org/wiki/CSS3"><img src="https://img.shields.io/badge/CSS-v3-red"></a>
+<a href="https://www.phpmyadmin.net/downloads/"><img src="https://img.shields.io/badge/phpMyAdmin-v5.0.4-yellowgreen"></a>
 
 Sistema de Petshop atribuído pelo professor Adeilson da EEEP Manoel Mano, de Crateús - CE.
  
